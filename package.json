@@ -1,7 +1,6 @@
 {
   "name": "contoh",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch"
@@ -10,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.4.14"
-  }
+    "tailwindcss": "^3.4.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandafadillah/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anandafadillah/test/issues"
+  },
+  "homepage": "https://github.com/anandafadillah/test#readme",
+  "description": ""
 }
